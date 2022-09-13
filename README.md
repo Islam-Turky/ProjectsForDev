@@ -15,6 +15,6 @@
   This is Calculator App Creating Using Python Language Programming 
   With Use Tkinter Module only
 
-    <img src="calc1.jpeg" alt="Calc">
+    <img src="calc1.jpeg">
 </body>
 </html>

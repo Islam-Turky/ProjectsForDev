@@ -12,7 +12,7 @@
 
 3. We then place the entry widget in the frame.
 
-  4.It creates a button with the text 'Clear' and places it on the window.
+4.It creates a button with the text 'Clear' and places it on the window.
 
 5. We first import the tkinter module.
 
@@ -24,7 +24,7 @@
 
 9. Finally, we create a loop to keep the window open.    
 
-  10.It creates a calculator.
+10.It creates a calculator.
 
 
 ![calc1](https://user-images.githubusercontent.com/107361423/189925189-80930e3d-0292-42fb-beed-10f13c86736d.jpeg)
